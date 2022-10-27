@@ -1,24 +1,7 @@
-# README
+# Project - 27/10/2022 - THP - Week 5 - Day 4 / Validant
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## The Gossip Project
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Creating a Rail app to simulate a Gossip data base.  
+You can create users, add gossip, tags, change element and description.  
+Only Data Base nothing in front.
